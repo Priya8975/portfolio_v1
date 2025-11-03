@@ -20,7 +20,7 @@ const WorkPermit: React.FC = () => {
       <div className="work-permit-card">
         <h2 className="work-permit-headline">🎓 Work Permit</h2>
         <p className="work-permit-summary">
-          I'm currently on a <strong>{workPermitData.visaStatus}</strong> 🛂, which allows me to work in the UK! 🇬🇧 My visa is valid until <strong>{new Date(workPermitData.expiryDate).toLocaleDateString()}</strong> 📅, giving me the opportunity to build valuable experience and grow my career here. 🌟
+          I'm currently on a <strong>{workPermitData.visaStatus}</strong> visa and will graduate in May 2026 🎓. I am authorized to work in the U.S. under F-1 OPT and my visa is valid until <strong>{new Date(workPermitData.expiryDate).toLocaleDateString()}</strong>. I am actively seeking full-time and new grad roles that build on my 2 years of prior industry experience and I value collaborative, growth-oriented work cultures where I can learn, contribute and support high-impact teams.🌟
         </p>
         <p className="additional-info">{workPermitData.additionalInfo}</p>
       </div>
@@ -29,3 +29,6 @@ const WorkPermit: React.FC = () => {
 };
 
 export default WorkPermit;
+
+
+ //June 13, 2029. 
