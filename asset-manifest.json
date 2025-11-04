@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_v1/static/css/main.546c85d3.css",
-    "main.js": "/portfolio_v1/static/js/main.ffee5d56.js",
+    "main.js": "/portfolio_v1/static/js/main.f4e2817c.js",
     "static/js/453.b0cd7502.chunk.js": "/portfolio_v1/static/js/453.b0cd7502.chunk.js",
     "static/media/Hotelcalifornia.jpg": "/portfolio_v1/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
     "static/media/eat_that_frog.jpg": "/portfolio_v1/static/media/eat_that_frog.813c8f47ac052b6d620c.jpg",
@@ -22,11 +22,11 @@
     "static/media/ac-dc.jpg": "/portfolio_v1/static/media/ac-dc.44867f491e8e97894eff.jpg",
     "index.html": "/portfolio_v1/index.html",
     "main.546c85d3.css.map": "/portfolio_v1/static/css/main.546c85d3.css.map",
-    "main.ffee5d56.js.map": "/portfolio_v1/static/js/main.ffee5d56.js.map",
+    "main.f4e2817c.js.map": "/portfolio_v1/static/js/main.f4e2817c.js.map",
     "453.b0cd7502.chunk.js.map": "/portfolio_v1/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546c85d3.css",
-    "static/js/main.ffee5d56.js"
+    "static/js/main.f4e2817c.js"
   ]
 }
